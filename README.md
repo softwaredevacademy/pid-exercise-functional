@@ -37,7 +37,7 @@ Start by initializing a project (see [recommended reading](#recommended-reading)
 - [eslint](https://eslint.org/): JavaScript linter which checks your coding style.
 - [jest](https://jestjs.io/): Testing framework, similar to JUnit but for JavaScript.
 
-ESLint should be set up to use the AirBnB style guide. It has a pretty strict rules to be enforced but you can always
+ESLint should be set up to use code style enforcing, CommonJS, no framework, no TypeScript, Node and the popular AirBnB style guide. It has a pretty strict rules to be enforced but you can always
 change them in `.eslintrc.js`. **Tip:** It's a smart idea to take help from your teammates during setup, as it's very common to
 run into issues that someone else has already encountered.
  
