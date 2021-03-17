@@ -27,7 +27,7 @@ functional programming concepts such as higher order functions (map/filter/reduc
 3. Introduction to an npm project: After this exercise we should be comfortable with setting up a basic npm based project-
 
 ### What to do?
-This assignment is about working with data using functional programming concepts like higher order functions. That means the exercises should
+This assignment is about working with data using functional programming concepts like callbacks. That means the exercises should
 be solved using a functional approach (map/filter/reduce) instead of the imperative approach (for-loops).
 
 You will create a nodejs CLI (Command Line Interface) app that will read in a JSON file `MOCK_DATA.json` and print some values. The JSON file consists of different person objects that have a first name, last name, email, gender, ip address and age.
