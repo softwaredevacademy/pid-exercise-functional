@@ -14,7 +14,6 @@ This exercise is about using functional programming concepts in JavaScript. Comm
 - [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 
 #### Concepts
-- Higher order functions
 - Callback functions
 - Arrow/Lambda functions
 - Map, Reduce and Filter functions
