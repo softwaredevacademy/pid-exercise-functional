@@ -22,7 +22,7 @@ This exercise is about using functional programming concepts in JavaScript. Comm
 
 ## Goals
 1. Introduction to functional programming:​ After doing this exercise we should be comfortable in using certain
-functional programming concepts such as higher order functions (map/filter/reduce).
+functional programming functions such as map/filter/reduce.
 2. Introduction to ES6 Javascript:​ After doing this exercise we should be familiar with basic usage of ES6 Javascript.
 3. Introduction to an npm project: After this exercise we should be comfortable with setting up a basic npm based project-
 
